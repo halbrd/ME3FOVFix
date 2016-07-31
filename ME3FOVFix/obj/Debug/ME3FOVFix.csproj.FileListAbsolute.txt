@@ -1,0 +1,9 @@
+C:\Users\William\Desktop\ME3FOVFix\ME3FOVFix\bin\Debug\ME3FOVFix.exe.config
+C:\Users\William\Desktop\ME3FOVFix\ME3FOVFix\bin\Debug\ME3FOVFix.exe
+C:\Users\William\Desktop\ME3FOVFix\ME3FOVFix\bin\Debug\ME3FOVFix.pdb
+C:\Users\William\Desktop\ME3FOVFix\ME3FOVFix\obj\Debug\ME3FOVFix.csprojResolveAssemblyReference.cache
+C:\Users\William\Desktop\ME3FOVFix\ME3FOVFix\obj\Debug\ME3FOVFix.frmMain.resources
+C:\Users\William\Desktop\ME3FOVFix\ME3FOVFix\obj\Debug\ME3FOVFix.Properties.Resources.resources
+C:\Users\William\Desktop\ME3FOVFix\ME3FOVFix\obj\Debug\ME3FOVFix.csproj.GenerateResource.Cache
+C:\Users\William\Desktop\ME3FOVFix\ME3FOVFix\obj\Debug\ME3FOVFix.exe
+C:\Users\William\Desktop\ME3FOVFix\ME3FOVFix\obj\Debug\ME3FOVFix.pdb
