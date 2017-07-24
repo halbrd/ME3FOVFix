@@ -12,4 +12,4 @@ So it's pretty safe to use.
 
 # Usage
 
-Before applying the fix, make sure you have the right Mass Effect 3 directory set (this is the installation directory of the game). Then click the Go button and you're done.
+Before applying the fix, make sure you have the right Mass Effect 3 directory set. This **IS NOT** the installation directory of the game; it's the directory that stores your config data. Normally this is `C:\Users\<username>\Documents\BioWare\Mass Effect 3`. Once you have the right directory set, click the Go button and you're done.
